@@ -49,4 +49,4 @@
 
 **Ответ:**
 
-![2-1](https://github.com/SemkinVA/12.7-HW/blob/main/2-1.png)
+![2-2](https://github.com/SemkinVA/12.7-HW/blob/main/2-2.png)
